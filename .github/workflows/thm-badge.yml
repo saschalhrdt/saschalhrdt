@@ -13,4 +13,4 @@ jobs:
       - uses: napahlm/thm-badge-generator@v1
         with:
           username: leonhardt
-          theme: gameboy        
+          theme: bloodmoon        
