@@ -20,14 +20,14 @@
   "completedRoomsNumber": 59,
   "streak": 9,
   "largestStreak": 9,
-  "rank": 189501,
+  "rank": 189625,
   "topPercentage": 7,
   "isInTopTenPercent": true,
   "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/leonhardt.png",
   "userRole": "student",
   "leagueTier": "platinum",
   "capabilityScore": {
-    "value": 43.882000000000005,
+    "value": 35,
     "pov": "green"
   },
   "isPrivateProfile": false,
